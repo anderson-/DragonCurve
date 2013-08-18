@@ -4,7 +4,7 @@ Programa em Java para desenhar a [Curva do Dragão](http://en.wikipedia.org/wiki
 
 ![Dragon curve](https://raw.github.com/anderson-/DragonCurve/master/img.jpg)
 
-Controles do programa:
+#Controles do programa:
 
 **Mouse esquerdo:**  pausa/continua a iteração
 
@@ -24,4 +24,3 @@ Controles do programa:
 
 Divirta-se!
 
-E para quem quiser saber mais sobre ele clique aqui
