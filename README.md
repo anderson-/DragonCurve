@@ -20,7 +20,7 @@ Programa em Java para desenhar a [Curva do Dragão](http://en.wikipedia.org/wiki
 
 * **Nota 2:** **_NÃO_** faça ele desenhar segmento por segmento sem pausar, se não ele vai continuar iterando enquanto os seguimentos couberem na tela, fazendo o programa travar!
 
-* **Nota 3:** O zoom ainda está ruim, mas vou arrumar em breve
+* **Nota 3:** O zoom ainda está ruim, mas vou arrumar em breve ~~(provavelmente nunca)~~
 
 Divirta-se!
 
